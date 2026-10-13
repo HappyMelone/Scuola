@@ -1,0 +1,1 @@
+print("Paolo è un po' scemo")
